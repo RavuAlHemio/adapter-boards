@@ -1,0 +1,4 @@
+*-backups/
+fp-*-cache
+project.db
+*.kicad_prl
